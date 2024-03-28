@@ -1,1 +1,2 @@
 # B2B-marketplace-for-books
+IMPLEMENTED USING OOP CONCEPTS
